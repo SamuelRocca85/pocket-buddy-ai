@@ -1,5 +1,5 @@
 # Gemini AI Agent
-This is a AI agent following the guided project at [Boot.dev](https://www.boot.dev/courses/build-ai-agent-python) using Google's Gemini API and python to create and agent that can read files and directories and write to files.
+This is a AI agent following the guided project at [Boot.dev](https://www.boot.dev/courses/build-ai-agent-python) using Google's Gemini API and python to create an agent that can read files and directories and write to files.
 
 ## Example
 
